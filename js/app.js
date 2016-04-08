@@ -1,0 +1,1 @@
+var App = angular.module('app', ['ngTable','ngAnimate','ngMessages','ngSanitize','ngRoute', 'ngResource']);
